@@ -1,0 +1,148 @@
+{
+    "products": [
+    	{
+	        "fairy_sparklers": {
+	            "id": 0,
+	            "type": 0,
+	            "name": "Fairy Sparklers",
+	            "description": "Multi-colored sparklers that are safe for any age."
+	        }
+	    },
+	    {
+	        "dunkleheinz": {
+	            "id": 0,
+	            "type": 0,
+	            "name": "Dunkle Heinz",
+	            "description": "These are weird n cool."
+	        }
+	    },
+	    {
+	        "butts": {
+	            "id": 0,
+	            "type": 0,
+	            "name": "Butts",
+	            "description": "Mr Poopy-Butthole approved."
+	        }
+	    },
+	    {
+	        "dog_fart": {
+	            "id": 0,
+	            "type": 1,
+	            "name": "Dog Fart",
+	            "description": "Cause a stink if thou wilt."
+	        }
+	    },
+	    {
+	        "butt_missile": {
+	            "id": 0,
+	            "type": 1,
+	            "name": "Butt Missiles",
+	            "description": "Stick em in. Blow em out."
+	        }
+	    },
+	    {
+	        "chigga": {
+	            "id": 0,
+	            "type": 1,
+	            "name": "Chiggas",
+	            "description": "I really don't know."
+	        }
+	    },
+	    {
+	        "tnt": {
+	            "id": 0,
+	            "type": 2,
+	            "name": "TNT",
+	            "description": "Not like the booty ass TV network."
+	        }
+	    },
+	    {
+	        "dynomite": {
+	            "id": 0,
+	            "type": 2,
+	            "name": "Dynomite",
+	            "description": "For a really good time."
+	        }
+	    },
+	    {
+	        "cheesequake": {
+	            "id": 0,
+	            "type": 2,
+	            "name": "Cheesequake",
+	            "description": "Shake that bear."
+	        }
+	    },
+	    {
+	        "titty_twisters": {
+	            "id": 1,
+	            "type": 0,
+	            "name": "Titty Twisters",
+	            "description": "Holy Guacomole! Hold on to ur hats."
+	        }
+	    },
+	    {
+	        "rad_aliens": {
+	            "id": 1,
+	            "type": 0,
+	            "name": "Rad Aliens",
+	            "description": "They're outta this world."
+	        }
+	    },
+	    {
+	        "cheese_dust": {
+	            "id": 1,
+	            "type": 0,
+	            "name": "Cheese Dust",
+	            "description": "Reduce it all to a tasty powder."
+	        }
+	    },
+	    {
+	        "make_nem": {
+	            "id": 1,
+	            "type": 1,
+	            "name": "Make Nem",
+	            "description": "I really don't know."
+	        }
+	    },
+	    {
+	        "pumpkin_spice": {
+	            "id": 1,
+	            "type": 1,
+	            "name": "Pumpkin Spice",
+	            "description": "It's super basic."
+	        }
+	    },
+	    {
+	        "simple_stan": {
+	            "id": 1,
+	            "type": 1,
+	            "name": "Simple Stans",
+	            "description": "As simple as it gets."
+	        }
+	    },
+	    {
+	        "primary_rain": {
+	            "id": 1,
+	            "type": 2,
+	            "name": "Primary Rain",
+	            "description": "Slippery. Excuse me. Please me."
+	        }
+	    },
+	    {
+	        "lil_vros": {
+	            "id": 1,
+	            "type": 2,
+	            "name": "Lil Vros",
+	            "description": "Let's get lit vro."
+	        }
+	    },
+	    {
+	        "issa_snack": {
+	            "id": 1,
+	            "type": 2,
+	            "name": "Issa Snack",
+	            "description": "Outchea lookin like a 3-course meal."
+	        }
+	    }
+	]
+}

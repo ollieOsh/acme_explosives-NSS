@@ -1,0 +1,41 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+        	"id": 1,
+        	"category": 0,
+        	"name": "Dangermouse",
+        	"description": "Bro. this ain't for no faint of heart"
+        },
+        {
+        	"id": 2,
+        	"category": 0,
+        	"name": "Offset",
+        	"description": "set it off b"
+        },
+        {
+
+            "id": 0,
+            "category": 1,
+            "name": "Blow it up",
+            "description": "ayyyyyy. holla @ me if u need something gone"
+        },
+        {
+        	"id": 1,
+        	"category": 1,
+        	"name": "Implode",
+        	"description": "you literally won't find any remains or rubble"
+        },
+        {
+        	"id": 2,
+        	"category": 1,
+        	"name": "4 tha homies",
+        	"description": "it's all fun n games vro"
+        }
+    ]
+}
